@@ -14,3 +14,6 @@ This repository is my practice space for learning technical writing and open-sou
 ## My Goal
 
 My goal is to develop strong documentation skills and contribute to open-source projects.
+## Branch Practice
+
+This change was made on the documentation-update branch.
